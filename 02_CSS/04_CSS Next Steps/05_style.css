@@ -1,0 +1,9 @@
+div{
+    height: 700px;
+    width: 400px;
+    background-color: rgba(0, 128, 0, 0.562);
+    margin: 10px auto;
+    background-image: url(phone-bg-black-c7fb92aa108d93bbe230fd1dde8a6341.jpg);
+    background-size: cover;
+    color: white;
+}

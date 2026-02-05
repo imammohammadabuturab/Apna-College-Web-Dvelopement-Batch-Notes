@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    text-decoration: wavy red underline;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    text-align: justify;
+    font-weight: 300;
+    text-decoration: overline;
+    line-height: 5;
+    letter-spacing: 5px;
+}
+h2 {
+    font-weight: 800;
+    text-decoration: pink line-through;
+    
+}
+
+a {
+    text-decoration: none;
+}
