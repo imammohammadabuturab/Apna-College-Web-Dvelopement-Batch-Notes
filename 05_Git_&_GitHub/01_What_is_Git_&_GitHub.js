@@ -3,3 +3,6 @@
 
 // version control system = tools that help to track changes in code
 
+// what is GitHub:
+// website where we post repositories online
+
