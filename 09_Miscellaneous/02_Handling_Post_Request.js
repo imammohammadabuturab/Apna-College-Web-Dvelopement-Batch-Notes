@@ -1,0 +1,9 @@
+// Handling Post requests
+
+// Set up POST request route to get some response
+
+// Parse POST request data
+
+
+// app.use(express.urlencoded({ extended: true }));
+// app.use(express.json());

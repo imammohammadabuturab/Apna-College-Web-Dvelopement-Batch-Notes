@@ -1,0 +1,15 @@
+// Object Oriented Programming
+
+
+// To structure our code
+
+// prototypes
+
+// New Operator
+
+// constructors
+
+// classes
+
+// keywords (extends, super)
+
